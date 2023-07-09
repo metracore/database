@@ -1,0 +1,22 @@
+{
+    "name": "metracore/database",
+    "description": "A part of Nitrovel framework component",
+    "type": "project",
+    "license": "MIT",
+    "homepage": "https://nitrovel.com",
+    "authors": [
+        {
+            "name": "Nishadil Dev Team",
+            "email": "opensource@nishadil.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^8.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Metracore\\Database\\": ""
+        }
+    }
+}
